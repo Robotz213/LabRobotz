@@ -1,0 +1,8 @@
+Flask
+flask-jwt-extended
+Flask-sqlalchemy
+selenium
+webdriver_manager
+flask-marshmallow
+python-dotenv
+flask_mysqldb
